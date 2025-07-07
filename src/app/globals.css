@@ -43,10 +43,6 @@
   --radius-xl: calc(var(--radius) + 4px);
 }
 
-body {
-  font-family: var(--font-geist-sans);
-}
-
 :root {
   --radius: 0.625rem;
   --background: oklch(1 0 0);
@@ -121,6 +117,6 @@ body {
     @apply border-border outline-ring/50;
   }
   body {
-    @apply bg-background text-foreground;
+    @apply bg-background text-foreground font-sans;
   }
 }
