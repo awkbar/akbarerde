@@ -18,7 +18,7 @@ function Home() {
         <p className="text-muted-foreground text-sm leading-tight tracking-tight text-pretty">
           You probably build websites and think your shit is special. You think
           your 13 megabyte parallax-ative home page is going to get you some
-          fucking Awwwards banner can blue to the top corner of your site. You
+          fucking Awwwards banner can glue to the top corner of your site. You
           think your 40-pound jQuery file and 83 polyfills give IE7 a boner
           because it finally has box-shadow. Wrong, motherfucker. Let ne
           describe your perfect-ass website:
@@ -43,7 +43,7 @@ function Home() {
         <p className="text-muted-foreground text-sm leading-tight tracking-tight text-pretty">
           You. Are. Over-designing. Look at this shit. It's a motherfucking
           website. Why the fuck do you need to animate a fucking trendy-ass
-          banner flag wheni hover over that useless piece of shit? You spent
+          banner flag when i hover over that useless piece of shit? You spent
           hours on it and added 80 kilobytes to your fucking site, and some
           motherfucker jabbing at it on their iPad with fat sausage fingers will
           never see that shit. Not to mention blind people will never see that
@@ -80,8 +80,8 @@ function Home() {
         <p className="text-muted-foreground text-sm leading-tight tracking-tight text-pretty">
           Look at this shit. You can read it ... that is, if you can read,
           motherfucker. It makes sense. It has motherfucking hierarchy. It's
-          using <span className="font-semibold">"npx create-next-app"</span> so
-          you and your bitch-ass browser know what the fuck's in this ducking
+          using <span className="font-semibold text-foreground">"npx create-next-app"</span> so
+          you and your bitch-ass browser know what the fuck's in this fucking
           site. That's semantics, motherfucker.
         </p>
         <p className="text-muted-foreground text-sm leading-tight tracking-tight text-pretty">
@@ -114,7 +114,7 @@ function Home() {
         <p className="text-muted-foreground text-sm leading-tight tracking-tight text-pretty">
           I'm not actually saying your shitty site should look like this. What
           I'm saying is that all the problems we have with websites are{" "}
-          <span className="font-semibold">ones we create ourselves.</span>{" "}
+          <span className="font-semibold text-foreground">ones we create ourselves.</span>{" "}
           Websites aren't broken by default, they are functional,
           high-performing, and accessible. You break them. You son-of-a-bitch.
         </p>
@@ -128,7 +128,7 @@ function Home() {
           Let's make an impact together
         </h2>
         <p className="text-muted-foreground text-sm leading-tight tracking-tight text-pretty">
-          I'm making cool shit that performs. Create the extraordinary. No shortcuts, just bold, precision-engineered work that elevates the game & leaves a mark. <Link href="/" target="_blank" className="text-primary font-semibold">Click here</Link> motherfucker!
+          I'm making cool shit that performs. Create the extraordinary. No shortcuts, just bold, precision-engineered work that elevates the game & leaves a mark. <Link href="mailto:akbarerde@gmail.com" target="_blank" className="text-primary font-semibold">Click here</Link> motherfucker!
         </p>
       </div>
     </div>
